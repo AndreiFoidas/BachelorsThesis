@@ -1,0 +1,2 @@
+model_checkpoint_path: "vgg19_lr_kfoldcp5.ckpt"
+all_model_checkpoint_paths: "vgg19_lr_kfoldcp5.ckpt"
