@@ -1,4 +1,4 @@
-# BachelorsThesis
+# BachelorsThesis - Mobile Application for Classifying Plastic Recycling Symbols Using Image Classification and Optical Character Recognition
  
 •	Created an Android mobile app in **Kotlin** that classifies user-uploaded images into the seven main plastic types.<br />
 •	Created a server using **Flask** to intercept the photos and process them using tools from **Tensorflow2**.<br />
